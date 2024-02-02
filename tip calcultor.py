@@ -1,4 +1,4 @@
-x=(3)
-y=float(3)
-print(x,y)
-    
+def tip_calculator(tip_percent):
+    print(subtotal)
+    tip=tip_percent*subtotal/100
+    T
