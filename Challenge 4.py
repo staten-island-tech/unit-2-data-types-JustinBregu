@@ -18,12 +18,12 @@ while a<=number2:
         a+=1
     else:
         a+=1
-        
+print(factors2)
+
 factors=[]
 for a in factors1:
     if a in factors2:
         factors.append(a)
-print(factors2)
 
 
 print(factors[-1])
